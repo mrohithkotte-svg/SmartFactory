@@ -1,0 +1,1 @@
+The current terminal version keeps the demonstration dataset inside SmartFactory.java so it runs immediately without external dependencies. This folder is reserved for future CSV/database integration.

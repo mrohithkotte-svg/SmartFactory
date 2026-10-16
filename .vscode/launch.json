@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SmartFactory Menu",
+      "request": "launch",
+      "mainClass": "smartfactory.Main",
+      "projectName": "SmartFactory",
+      "console": "integratedTerminal",
+      "args": []
+    },
+    {
+      "type": "java",
+      "name": "SmartFactory Full Demo",
+      "request": "launch",
+      "mainClass": "smartfactory.Main",
+      "projectName": "SmartFactory",
+      "console": "integratedTerminal",
+      "args": ["demo"]
+    }
+  ]
+}
